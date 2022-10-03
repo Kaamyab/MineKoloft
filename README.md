@@ -3,7 +3,7 @@
 I'm just trying to remake a simple web version of minecraft with ThreeJS!
 here's a demo of how it looks right now
 
-Demo: ###
+Demo: https://minekoloft.netlify.app/
 
 ## How to play?
 
